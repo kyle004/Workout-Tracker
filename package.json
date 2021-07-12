@@ -25,5 +25,6 @@
   "bugs": {
     "url": "https://github.com/kyle004/Workout-Tracker/issues"
   },
-  "homepage": "https://github.com/kyle004/Workout-Tracker#readme"
+  "homepage": "https://github.com/kyle004/Workout-Tracker#readme",
+  "devDependencies": {}
 }
